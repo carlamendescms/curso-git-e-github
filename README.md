@@ -1,5 +1,4 @@
-# curso-git-e-github
+Repositório criado para aprendizado referente a Git e ao uso do Github pelo curso Git e Github do Bootcamp Data Analytics da WoMakersCode.
+Também foi utilizado esse mesmo repositório para incluir notas de aulas e comandos explorados pelo curso de Git e Github da Digital Inovation One (DIO).
 
-Repositório do curso Git e Github do Bootcamp Data Analytics pelo WoMakersCode.
 
-**Lista com principais comandos utilizados com Git e Github no arquivo comandosgit.md**
