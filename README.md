@@ -4,6 +4,6 @@ Este repositório foi criado para centralizar notas de aulas e exercitar comando
 
 Foi utilizado esse mesmo repositório para incluir notas de aulas e comandos explorados pelo curso de Git e Github da Digital Inovation One (DIO).
 
-Também foi usado para utilizar comandos do tipo Markdown. 
+Também foi usado para treinar comandos do tipo Markdown. 
 
 
